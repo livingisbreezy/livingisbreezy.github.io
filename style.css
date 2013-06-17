@@ -1,0 +1,94 @@
+/*These elements apply to the whole page*/
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400,300,100); /*Fonts from google*/
+
+body { /*This is the background for the whole page*/
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+div#wrapper { 
+	min-width: 600px;
+}
+
+img {
+	width:400px;
+	border-radius:0%;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.introimg {
+	border-radius:50%;
+}
+
+div.breakbar {
+	font-family: 'Roboto:400', sans-serif;
+	text-align: center;
+	padding: 5px;
+  	margin-bottom: 5px;
+  	font-size: 50px;
+  	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+  	color: inherit;
+  	background-color: #008EFF;
+  	-webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+          border-radius: 6px;
+    text-decoration: none;
+/*   a:link: #FFFFFF;    
+	a:visited:#8552FF;  visited link 
+	a:hover:#19A4FF;  
+	a:active:#0000FF;  /* selected link */
+}
+
+div.intro { 
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+/*	width:600px;
+	height:600px;*/
+	margin:0 auto;
+}
+
+div.stuff { 
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+		padding-bottom: 50px;
+/*	width:600px;
+	height:600px;*/
+	margin:0 auto;
+}
+
+div.resume {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+		padding-bottom: 50px;
+/*	width:600px;
+	height:600px;*/
+	margin:0 auto;
+}
+
+div.aboutme {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+/*	width:600px;
+	height:600px;*/
+	margin:0 auto;
+}
+
+a:link { 
+	color: 19A4FF;
+	text-decoration: none;
+}
+
+a:visited { /*This styles the visited links*/
+	color: 8552FF;
+	text-decoration: none;
+}
