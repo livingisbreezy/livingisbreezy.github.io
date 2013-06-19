@@ -38,9 +38,9 @@ div.breakbar {
 /*  	box-shadow: 3px 3px 3px 0px rgba(1C3F34);*/
   	color: inherit;
   	background-color: #5FD4B1;
-  	-webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-          border-radius: 6px;
+  	-webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+          border-radius: 15px;
     text-decoration: none;
     color: F53D65;
 }
