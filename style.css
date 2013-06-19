@@ -89,3 +89,8 @@ a:visited { /*This styles the visited links*/
 a:hover { 
 	color: FF5900;
 }
+
+strong {
+
+	color: F53D65;
+}
