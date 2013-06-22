@@ -60,6 +60,7 @@ div.breakbar {
     text-decoration: none;
     text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
     color: F53D65;
+    letter-spacing: 5px;
     clear: both;
 }
 
